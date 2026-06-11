@@ -1,10 +1,11 @@
-# Nguyễn Hoàng Phương
+# 👋 Nguyễn Hoàng Phương
 
 **Automation Developer • Full-stack Developer**
 
-Ho Chi Minh City, Vietnam • IT Student @ University of Transport (UTH)
+📍 Ho Chi Minh City, Vietnam  
+🧑‍🎓 IT Student @ University of Transport (UTH)
 
-[berstock.hfuong275@gmail.com](mailto:berstock.hfuong275@gmail.com) · [GitHub](https://github.com/NguyenHoangPhuong275)
+[📧 Email](mailto:berstock.hfuong275@gmail.com) · [🐙 GitHub](https://github.com/NguyenHoangPhuong275)
 
 ---
 
@@ -16,14 +17,14 @@ Python · TypeScript · Go · C# · FastAPI · Next.js · React · PostgreSQL ·
 
 ## Projects
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[Telegram Sales Bot](https://github.com/NguyenHoangPhuong275/bot_ban_hang)** | Automated order processing & instant digital product delivery | Python, FastAPI, Telegram |
-| **[CLIProxyAPI](https://github.com/NguyenHoangPhuong275/cliproxyapi)** | Translation & relay gateway for developer CLI tools | Go, OAuth 2.0, HTTP Proxy |
-| **[Smart Travel Guide](https://github.com/NguyenHoangPhuong275/dattcnpm)** | Travel planning web app with maps, weather & caching | Next.js, TypeScript, MongoDB, Redis |
-| **[2FA Site](https://github.com/NguyenHoangPhuong275/2fasite)** | Microsoft Graph + Outlook automation to extract 2FA codes | JavaScript, Vercel, Microsoft Graph |
-| **Chrome Extensions** | Manifest V3 extensions for bulk admin operations & complex workflows | JavaScript, Chrome Extension API |
-| **University Portal Bot** | Multithreaded registration automation with JWT session handling | Python, C#, Multithreading |
+| Project                  | What it does                                           | Tech                              |
+|--------------------------|--------------------------------------------------------|-----------------------------------|
+| **Telegram Sales Bot**   | Automated order processing & instant digital delivery  | Python, FastAPI, Telegram         |
+| **CLIProxyAPI**          | Translation & relay gateway for developer CLI tools    | Go, OAuth 2.0, HTTP Proxy         |
+| **Smart Travel Guide**   | Travel planning web app with maps, weather & caching   | Next.js, TypeScript, MongoDB, Redis |
+| **2FA Site**             | Microsoft Graph + Outlook automation to extract 2FA codes | JavaScript, Vercel, Microsoft Graph |
+| **Chrome Extensions**    | Manifest V3 extensions for bulk admin & workflow automation | JavaScript, Chrome Extension API |
+| **University Portal Bot**| Multithreaded registration automation with session handling | Python, C#, Multithreading     |
 
 ## Education
 
