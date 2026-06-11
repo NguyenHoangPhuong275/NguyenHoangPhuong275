@@ -2,10 +2,12 @@
 
 **Automation Developer • Full-stack Engineer**
 
-Building practical automation systems and modern web applications with Python & TypeScript.
+> **I build production-grade automation systems and modern web applications that ship.**
+
+**I specialize in** Python & TypeScript tooling, browser automation, API gateways, and developer infrastructure.
 
 📍 Ho Chi Minh City, Vietnam  
-🧑‍🎓 Information Technology Student @ University of Transport (UTH)
+🧑‍🎓 IT Student @ University of Transport (UTH)
 
 [📧 Email](mailto:berstock.hfuong275@gmail.com) · [🐙 GitHub](https://github.com/NguyenHoangPhuong275)
 
