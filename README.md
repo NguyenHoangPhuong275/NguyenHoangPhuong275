@@ -2,19 +2,19 @@
 
 # Nguyen Hoang Phuong
 
-### AI-Assisted Project Builder
+### Workflow Automation Enthusiast
 
-I use AI to plan, build, automate, and improve real projects.
+I like building small tools that make daily work faster, cleaner, and easier to repeat.
 
 <p>
   <a href="https://github.com/NguyenHoangPhuong275">
     <img src="https://img.shields.io/github/followers/NguyenHoangPhuong275?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Projects-00C2A8?style=for-the-badge" alt="Focus AI Projects" />
+  <img src="https://img.shields.io/badge/Focus-Workflow%20Automation-00C2A8?style=for-the-badge" alt="Focus Workflow Automation" />
   <img src="https://img.shields.io/badge/Student-UTH-3B82F6?style=for-the-badge" alt="UTH Student" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=760&lines=Building+projects+with+AI;Automation+%2B+web+tools+%2B+APIs;Turning+ideas+into+working+products" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=760&lines=Automating+repetitive+workflows;Building+web+tools+%2B+bots+%2B+APIs;Making+daily+work+lighter" alt="Typing intro" />
 
 </div>
 
@@ -24,13 +24,13 @@ I use AI to plan, build, automate, and improve real projects.
 
 I am an Information Technology student at **Ho Chi Minh City University of Transport (UTH)**.
 
-My main focus is using AI as a practical builder: turning ideas into working projects, automating repetitive workflows, connecting APIs, and improving product logic faster.
+I enjoy creating automation tools, bots, API integrations, and web apps that reduce repetitive work and make everyday tasks feel lighter.
 
 ```text
-Current direction : AI-assisted project development
+Current direction : Workflow automation and practical web tools
 What I build      : Web apps, automation tools, bots, API systems
-How I work        : Plan with AI, code with AI, test, improve, repeat
-Goal              : Build useful products that solve real problems
+How I work        : Keep things simple, test carefully, improve step by step
+Goal              : Build useful tools that save time and reduce manual work
 ```
 
 ---
@@ -73,7 +73,7 @@ Frontend  : React, Next.js, Tailwind CSS, Bootstrap
 Backend   : FastAPI, Node.js, Express, Serverless Functions
 Database  : MongoDB, Redis, PostgreSQL, SQLite
 Tools     : Docker, Git, GitHub Actions, Visual Studio, VS Code
-AI Usage  : Project planning, coding support, debugging, automation ideas
+Focus     : Automation, integrations, workflow optimization
 ```
 
 ---
@@ -100,7 +100,7 @@ Automation bot for digital product delivery, payment checking, rate limiting, an
 
 **Repository:** [cliproxyapi](https://github.com/NguyenHoangPhuong275/cliproxyapi)
 
-AI translation and relay gateway for developer CLI tools.
+Translation and relay gateway for developer CLI tools.
 
 `Go` `OAuth 2.0` `HTTP Proxy` `Streaming` `Load Balancing`
 
