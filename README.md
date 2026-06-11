@@ -1,101 +1,138 @@
-<h1 align="center">Hi there, I'm Nguyen Hoang Phuong 👋</h1>
+<div align="center">
 
-<p align="center">
+# Nguyen Hoang Phuong
+
+### AI-Assisted Project Builder
+
+I use AI to plan, build, automate, and improve real projects.
+
+<p>
   <a href="https://github.com/NguyenHoangPhuong275">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Automation+Developer;Full-stack+Web+Developer;IT+Student+at+UTH" alt="Typing SVG" />
+    <img src="https://img.shields.io/github/followers/NguyenHoangPhuong275?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Projects-00C2A8?style=for-the-badge" alt="Focus AI Projects" />
+  <img src="https://img.shields.io/badge/Student-UTH-3B82F6?style=for-the-badge" alt="UTH Student" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/NguyenHoangPhuong275">
-    <img src="https://img.shields.io/github/followers/NguyenHoangPhuong275?label=Followers&style=social" alt="Followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=760&lines=Building+projects+with+AI;Automation+%2B+web+tools+%2B+APIs;Turning+ideas+into+working+products" alt="Typing intro" />
+
+</div>
 
 ---
 
-### 💫 About Me
-* 🎓 **Education:** Information Technology Student at **Ho Chi Minh City University of Transport (UTH)**.
-* 💻 **Focus:** Specializing in building robust automation bots, secure web scrapers, API gateways, and modern full-stack web applications.
-* ⚡ **Core Philosophy:** Optimizing system workflows, preventing data leaks, and implementing robust error-handling pipelines.
+## About Me
 
----
+I am an Information Technology student at **Ho Chi Minh City University of Transport (UTH)**.
 
-### 🛠️ Tech Stack & Skills
+My main focus is using AI as a practical builder: turning ideas into working projects, automating repetitive workflows, connecting APIs, and improving product logic faster.
 
 ```text
-  Languages : TypeScript, JavaScript, Python, Go (Golang), C# (.NET)
-  Frontend  : React 19, Next.js 16, Tailwind CSS 4, Bootstrap
-  Backend   : FastAPI, Node.js (Express), Serverless Functions
-  Databases : MongoDB (Mongoose), Redis (ioredis), PostgreSQL, SQLite
-  Tools/Dev : Docker, Git, GitHub Actions, Visual Studio, VS Code
+Current direction : AI-assisted project development
+What I build      : Web apps, automation tools, bots, API systems
+How I work        : Plan with AI, code with AI, test, improve, repeat
+Goal              : Build useful products that solve real problems
 ```
+
+---
+
+## Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs" width="48" alt="Languages" />
-      <br><b>Languages</b>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs" width="64" alt="Languages" />
+      <br />
+      <b>Languages</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" width="48" alt="Frontend" />
-      <br><b>Frontend</b>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" width="64" alt="Frontend" />
+      <br />
+      <b>Frontend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi,express,dotnet" width="48" alt="Backend" />
-      <br><b>Backend</b>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=fastapi,express,dotnet" width="64" alt="Backend" />
+      <br />
+      <b>Backend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,postgres" width="48" alt="Databases" />
-      <br><b>Databases</b>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,postgres" width="64" alt="Databases" />
+      <br />
+      <b>Databases</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" width="48" alt="Tools" />
-      <br><b>Tools</b>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" width="64" alt="Tools" />
+      <br />
+      <b>Tools</b>
     </td>
   </tr>
 </table>
 
----
-
-### 🚀 Key Projects
-
-#### 🌟 [Smart Travel Guide](https://github.com/NguyenHoangPhuong275/dattcnpm)
-> Web application for travel planning with map integration and distributed caching.
-* **Stack:** Next.js 16, React 19, TypeScript, MongoDB, Redis, Resend, Vitest.
-* **Highlights:** Nominatim & Overpass API integration, distributed caching for weather/POIs, double-auth (HttpOnly JWT + header compatibility), dynamic DB Consistency Checker.
-
-#### 🤖 [Telegram Sales Bot](https://github.com/NguyenHoangPhuong275/bot_ban_hang)
-> Automated digital product delivery bot integrating transactional email/state notifications.
-* **Stack:** Python, FastAPI, python-telegram-bot, SQLAlchemy, cryptography (Fernet).
-* **Highlights:** Custom token-bucket rate limiter, AES-256 encrypted database storage, transaction-polling with ACB/VietQR API, database-level idempotency to prevent double-delivery.
-
-#### ⚡ [CLIProxyAPI](https://github.com/NguyenHoangPhuong275/cliproxyapi)
-> High-performance AI Translation and Relay Gateway for developer CLI tools.
-* **Stack:** Go (Golang), OAuth 2.0, HTTP Proxy.
-* **Highlights:** Round-robin load balancing, model aliasing/mapping, automated OAuth access token rotation, and streaming response proxying.
-
-#### 🔑 [DOVIESHOP](https://github.com/NguyenHoangPhuong275/2fasite)
-> Real-time 2FA TOTP code generator and Microsoft Graph email automation reader.
-* **Stack:** Vite, JavaScript ESM, Vercel Serverless, Microsoft Graph API.
-* **Highlights:** Time-synchronized TOTP generator, token exchange flow for Outlook mail access, regex-based verification code extraction.
+```text
+Languages : TypeScript, JavaScript, Python, Go, C#
+Frontend  : React, Next.js, Tailwind CSS, Bootstrap
+Backend   : FastAPI, Node.js, Express, Serverless Functions
+Database  : MongoDB, Redis, PostgreSQL, SQLite
+Tools     : Docker, Git, GitHub Actions, Visual Studio, VS Code
+AI Usage  : Project planning, coding support, debugging, automation ideas
+```
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
+
+### Smart Travel Guide
+
+**Repository:** [dattcnpm](https://github.com/NguyenHoangPhuong275/dattcnpm)
+
+Travel planning web app with maps, weather, points of interest, caching, and authentication.
+
+`Next.js` `React` `TypeScript` `MongoDB` `Redis` `Vitest`
+
+### Telegram Sales Bot
+
+**Repository:** [bot_ban_hang](https://github.com/NguyenHoangPhuong275/bot_ban_hang)
+
+Automation bot for digital product delivery, payment checking, rate limiting, and secure storage.
+
+`Python` `FastAPI` `SQLAlchemy` `Telegram Bot API` `Fernet`
+
+### CLIProxyAPI
+
+**Repository:** [cliproxyapi](https://github.com/NguyenHoangPhuong275/cliproxyapi)
+
+AI translation and relay gateway for developer CLI tools.
+
+`Go` `OAuth 2.0` `HTTP Proxy` `Streaming` `Load Balancing`
+
+### DOVIESHOP
+
+**Repository:** [2fasite](https://github.com/NguyenHoangPhuong275/2fasite)
+
+TOTP generator and Microsoft Graph email automation reader.
+
+`Vite` `JavaScript` `Vercel Serverless` `Microsoft Graph API`
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/NguyenHoangPhuong275">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=tokyonight&count_private=true" alt="NguyenHoangPhuong275's GitHub Stats" />
-  </a>
-  <a href="https://github.com/NguyenHoangPhuong275">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangPhuong275&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangPhuong275&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-* 💬 **Telegram:** [t.me/haqphuong2075](https://t.me/haqphuong2075)
-* 📘 **Facebook:** [fb.com/phuonqnh0954](https://facebook.com/phuonqnh0954)
-* 📧 **Email:** `berstock.hfuong275@gmail.com`
+## Contact
+
+<p>
+  <a href="https://t.me/haqphuong2075">
+    <img src="https://img.shields.io/badge/Telegram-haqphuong2075-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://facebook.com/phuonqnh0954">
+    <img src="https://img.shields.io/badge/Facebook-phuonqnh0954-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:berstock.hfuong275@gmail.com">
+    <img src="https://img.shields.io/badge/Email-berstock.hfuong275%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
