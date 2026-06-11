@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Nguyen Hoang Phuong Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Nguyen Hoang Phuong 👋</h1>
 
 <p align="center">
