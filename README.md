@@ -1,4 +1,8 @@
-# Hi there, I'm Nguyen Hoang Phuong 👋
+<p align="center">
+  <img src="banner.png" alt="Nguyen Hoang Phuong Banner" width="100%">
+</p>
+
+<h1 align="center">Hi there, I'm Nguyen Hoang Phuong 👋</h1>
 
 <p align="center">
   <a href="https://github.com/NguyenHoangPhuong275">
@@ -6,16 +10,30 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/NguyenHoangPhuong275">
+    <img src="https://img.shields.io/github/followers/NguyenHoangPhuong275?label=Followers&style=social" alt="Followers" />
+  </a>
+</p>
+
 ---
 
 ### 💫 About Me
 * 🎓 **Education:** Information Technology Student at **Ho Chi Minh City University of Transport (UTH)**.
-* 💻 **Focus:** Specialized in building automation bots, secure web scrapers, API gateways, and full-stack web applications.
+* 💻 **Focus:** Specializing in building robust automation bots, secure web scrapers, API gateways, and modern full-stack web applications.
 * ⚡ **Core Philosophy:** Optimizing system workflows, preventing data leaks, and implementing robust error-handling pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
+
+```text
+  Languages : TypeScript, JavaScript, Python, Go (Golang), C# (.NET)
+  Frontend  : React 19, Next.js 16, Tailwind CSS 4, Bootstrap
+  Backend   : FastAPI, Node.js (Express), Serverless Functions
+  Databases : MongoDB (Mongoose), Redis (ioredis), PostgreSQL, SQLite
+  Tools/Dev : Docker, Git, GitHub Actions, Visual Studio, VS Code
+```
 
 <table>
   <tr>
@@ -49,22 +67,22 @@
 #### 🌟 [Smart Travel Guide](https://github.com/NguyenHoangPhuong275/dattcnpm)
 > Web application for travel planning with map integration and distributed caching.
 * **Stack:** Next.js 16, React 19, TypeScript, MongoDB, Redis, Resend, Vitest.
-* **Key features:** Nominatim & Overpass API integration, distributed caching for weather/POIs, double-auth (HttpOnly JWT + header compatibility), dynamic DB Consistency Checker.
+* **Highlights:** Nominatim & Overpass API integration, distributed caching for weather/POIs, double-auth (HttpOnly JWT + header compatibility), dynamic DB Consistency Checker.
 
 #### 🤖 [Telegram Sales Bot](https://github.com/NguyenHoangPhuong275/bot_ban_hang)
 > Automated digital product delivery bot integrating transactional email/state notifications.
 * **Stack:** Python, FastAPI, python-telegram-bot, SQLAlchemy, cryptography (Fernet).
-* **Key features:** Custom token-bucket rate limiter, AES-256 encrypted database storage, transaction-polling with ACB/VietQR API, database-level idempotency to prevent double-delivery.
+* **Highlights:** Custom token-bucket rate limiter, AES-256 encrypted database storage, transaction-polling with ACB/VietQR API, database-level idempotency to prevent double-delivery.
 
 #### ⚡ [CLIProxyAPI](https://github.com/NguyenHoangPhuong275/cliproxyapi)
 > High-performance AI Translation and Relay Gateway for developer CLI tools.
 * **Stack:** Go (Golang), OAuth 2.0, HTTP Proxy.
-* **Key features:** Round-robin load balancing, model aliasing/mapping, automated OAuth access token rotation, and streaming response proxying.
+* **Highlights:** Round-robin load balancing, model aliasing/mapping, automated OAuth access token rotation, and streaming response proxying.
 
 #### 🔑 [DOVIESHOP](https://github.com/NguyenHoangPhuong275/2fasite)
 > Real-time 2FA TOTP code generator and Microsoft Graph email automation reader.
 * **Stack:** Vite, JavaScript ESM, Vercel Serverless, Microsoft Graph API.
-* **Key features:** Time-synchronized TOTP generator, token exchange flow for Outlook mail access, regex-based verification code extraction.
+* **Highlights:** Time-synchronized TOTP generator, token exchange flow for Outlook mail access, regex-based verification code extraction.
 
 ---
 
