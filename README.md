@@ -1,45 +1,71 @@
-# 👋 Nguyễn Hoàng Phương
+<div align="center">
 
-**Automation Developer • Full-stack Engineer**
+# Hi, I'm Nguyễn Hoàng Phương 👋
 
-> [!TIP]
-> **I build production-grade automation systems and modern web applications that ship.**
+### I turn repetitive work into thoughtful digital products.
 
-**I specialize in** Python & TypeScript tooling, browser automation, API gateways, and developer infrastructure.
+I'm an Information Technology student and developer from Ho Chi Minh City. I enjoy building automation tools, full-stack applications, and small utilities that solve real problems for real people.
 
-📍 Ho Chi Minh City, Vietnam  
-🧑‍🎓 IT Student @ University of Transport (UTH)
+[Email me](mailto:berstock.hfuong275@gmail.com) · [Explore my projects](https://github.com/NguyenHoangPhuong275?tab=repositories)
 
-[📧 Email](mailto:berstock.hfuong275@gmail.com) · [🐙 GitHub](https://github.com/NguyenHoangPhuong275)
+</div>
 
----
+## A little about me
 
-## Core Technologies
+I like understanding how a workflow works, finding the parts that waste time, and turning them into something reliable and pleasant to use. My projects often begin as tools for my own needs, then grow into complete products with a clear interface, secure data handling, and automation behind the scenes.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp;
-  <img src="https://img.shields.io/badge/Go-1.x-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> &nbsp;
-  <img src="https://img.shields.io/badge/C%20Sharp-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-Web-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/React-UI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> &nbsp;
-  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+Right now, I'm especially interested in:
 
+- Browser automation and practical artificial intelligence tools
+- Full-stack products with polished, human-friendly interfaces
+- Application programming interface integrations and reliable background workflows
+- Building, testing, and refining ideas through real-world use
+
+My main toolkit is **Python, TypeScript, Next.js, and FastAPI**. I choose other tools when the problem calls for them.
+
+## Selected work
+
+### 🧭 Travel planning and booking platform
+
+A full-stack travel product that brings destinations, itineraries, hotels, bookings, reviews, notifications, and administration into one experience. I developed it with a focus on clear user journeys, dependable data flows, and maintainable product architecture.
+
+[View the project](https://github.com/NguyenHoangPhuong275/LapTrinhAI/tree/main/dattcnpm)
+
+### 🏠 VieShop management dashboard
+
+An internal dashboard for managing Google Family and ChatGPT Workspace accounts. It combines member operations, profile checks, synchronization queues, activity tracking, backups, and security controls in a responsive interface.
+
+[View the project](https://github.com/NguyenHoangPhuong275/LapTrinhAI/tree/main/Web)
+
+### 🤖 Telegram sales assistant
+
+An automated Telegram sales workflow that handles product inventory, orders, bank-transfer matching, delivery, refunds, statistics, and administrator controls. The project reflects my interest in building automation that remains understandable and dependable when money and customer experience are involved.
+
+[View the project](https://github.com/NguyenHoangPhuong275/LapTrinhAI/tree/main/bot_ban_hang)
+
+### ⚙️ Automation toolbox
+
+A growing collection of browser extensions and desktop utilities for email workflows, account management, two-factor authentication, data synchronization, and repetitive web tasks. These experiments are where I explore new ideas, learn from edge cases, and turn useful discoveries into reusable tools.
+
+[Explore the collection](https://github.com/NguyenHoangPhuong275/LapTrinhAI)
+
+## Beyond shipping features
+
+I also enjoy learning through smaller projects. My work includes a Wumpus World knowledge-base exercise, a campus course-registration desktop tool, a bus-route map, and focused utilities for email and one-time-password workflows. Each project gives me another chance to understand a system more deeply and make it friendlier to use.
 
 ## Education
 
-**B.S. Information Technology**  
-University of Transport (UTH) — Expected 2027
+**Bachelor of Information Technology**<br>
+University of Transport Ho Chi Minh City · Expected 2027
 
-## GitHub Activity
+## Let's connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangPhuong275&layout=compact&theme=transparent&hide_border=true" height="140" />
-</p>
+I'm always happy to talk about automation, product ideas, or a tricky workflow that deserves a better tool. You can reach me at [berstock.hfuong275@gmail.com](mailto:berstock.hfuong275@gmail.com).
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="150" alt="Nguyễn Hoàng Phương's GitHub statistics" />
+
+<sub>Thanks for stopping by. I hope you find something useful here.</sub>
+
+</div>
