@@ -35,8 +35,11 @@ University of Transport Ho Chi Minh City (UTH) · Expected 2027
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="145" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangPhuong275&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=NguyenHoangPhuong275&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenHoangPhuong275&amp;theme=tokyo-night&amp;hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 </p>
 
 <div align="center">
