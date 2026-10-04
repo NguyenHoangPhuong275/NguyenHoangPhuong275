@@ -8,17 +8,15 @@
 
 </div>
 
-> [!TIP]
 > **I build production-grade automation systems, developer tools, and modern web applications that ship.**
 
 ## About Me
 
-I am an Information Technology student at the University of Transport Ho Chi Minh City (UTH, 2023 – 2027) with a focus on **developer tooling**, **browser automation**, and **backend systems**.
-
-I enjoy building practical command-line utilities, API integrations, and automation workflows using **Python** and **TypeScript** to eliminate manual repetition and solve real-world technical problems.
+I am an Information Technology student at the University of Transport Ho Chi Minh City (UTH, 2023 – 2027).  
+I specialize in **developer tooling**, **browser automation**, **API integrations**, and **backend infrastructure**, focusing on writing practical Python and TypeScript utilities that automate repetitive workflows.
 
 - **Location:** Ho Chi Minh City, Vietnam
-- **Education:** B.S. in Information Technology, UTH (Expected 2027)
+- **Focus:** Automation scripts, custom CLI tools, browser drivers, API gateways
 - **Connect:** [Email](mailto:berstock.hfuong275@gmail.com) · [GitHub](https://github.com/NguyenHoangPhuong275)
 
 ## Core technologies
@@ -26,11 +24,16 @@ I enjoy building practical command-line utilities, API integrations, and automat
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
+
+## Education
+
+**B.S. Information Technology**  
+University of Transport Ho Chi Minh City (UTH) · Expected 2027
 
 ## GitHub activity
 
