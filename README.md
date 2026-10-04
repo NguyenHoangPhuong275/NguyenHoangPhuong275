@@ -11,12 +11,15 @@
 > [!TIP]
 > **I build production-grade automation systems, developer tools, and modern web applications that ship.**
 
-**I specialize in** Python and TypeScript tooling, browser automation, API integrations, and developer infrastructure.
+## About Me
 
-Ho Chi Minh City, Vietnam<br>
-IT Student @ University of Transport Ho Chi Minh City (UTH) · Expected 2027
+I am an Information Technology student at the University of Transport Ho Chi Minh City (UTH, 2023 – 2027) with a focus on **developer tooling**, **browser automation**, and **backend systems**.
 
-[Email](mailto:berstock.hfuong275@gmail.com) · [GitHub](https://github.com/NguyenHoangPhuong275)
+I enjoy building practical command-line utilities, API integrations, and automation workflows using **Python** and **TypeScript** to eliminate manual repetition and solve real-world technical problems.
+
+- **Location:** Ho Chi Minh City, Vietnam
+- **Education:** B.S. in Information Technology, UTH (Expected 2027)
+- **Connect:** [Email](mailto:berstock.hfuong275@gmail.com) · [GitHub](https://github.com/NguyenHoangPhuong275)
 
 ## Core technologies
 
