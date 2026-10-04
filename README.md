@@ -1,66 +1,47 @@
-<h1 align="center">Nguyễn Hoàng Phương</h1>
+<div align="center">
+
+# Nguyễn Hoàng Phương
+
+**Automation Developer • Tooling & Full-stack Engineer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+automation+tools+that+solve+real+problems;Developing+custom+utilities+%26+developer+infrastructure" alt="Typing introduction" />
+
+</div>
+
+> [!TIP]
+> **I build production-grade automation systems, developer tools, and modern web applications that ship.**
+
+**I specialize in** Python and TypeScript tooling, browser automation, API integrations, and developer infrastructure.
+
+Ho Chi Minh City, Vietnam<br>
+IT Student @ University of Transport Ho Chi Minh City (UTH) · Expected 2027
+
+[Email](mailto:berstock.hfuong275@gmail.com) · [GitHub](https://github.com/NguyenHoangPhuong275)
+
+## Core technologies
 
 <p align="center">
-  <strong>Builder • Tooling, Automation & AI Systems</strong><br>
-  Ho Chi Minh City, Vietnam
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
+
+## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/NguyenHoangPhuong275"><img src="https://img.shields.io/badge/GitHub-NguyenHoangPhuong275-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="mailto:berstock.hfuong275@gmail.com"><img src="https://img.shields.io/badge/Email-berstock.hfuong275%40gmail.com-007ACC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://streak-stats.demolab.com?user=NguyenHoangPhuong275&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
----
+<div align="center">
 
-### About
+### Let's build something useful together
 
-Software engineering student at the University of Transport and Communications (UTH, 2023 – 2027).  
-Specializing in building developer tools, automation utilities, and AI-driven workflows that eliminate repetitive operations.
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berstock.hfuong275@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=NguyenHoangPhuong275&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=100&section=footer" alt="Wave footer" />
 
-### Tools & Systems
-
-#### [AutoFlow Studio](https://github.com/NguyenHoangPhuong275/autoflow)
-> Workspace automation tool bridging Google Workspace (Sheets, Docs, Drive, Gmail) with local spreadsheet data (`.xlsx`, `.csv`).
-- DeepSeek tool calling with 45 domain-specific functions.
-- Row-by-row batch operations and natural-language spreadsheet manipulation.
-- `TypeScript` `React` `Vite` `DeepSeek API` `Google OAuth 2.0` `Playwright`
-
-#### [2FA Site](https://github.com/NguyenHoangPhuong275/2fasite)
-> Minimalist, zero-knowledge client-side TOTP generation utility.
-- Pure browser-side RFC 6238 generation — secrets never leave the client.
-- Built-in clock drift compensation syncing against server timestamps (`/api/time`).
-- Supports raw Base32, `otpauth://` URIs, and key-value formats.
-- `JavaScript` `Web Crypto API` `Vite` `Vercel Serverless`
-
-#### [WifiGuard](https://github.com/NguyenHoangPhuong275/Project_LTM_ManageConnection)
-> Local network device monitor and automated gateway access controller.
-- Multi-threaded TCP socket server polling active LAN devices via ARP and mDNS.
-- Automated router firewall rule enforcement (OpenWrt/Gateway integration) for access control.
-- `Java` `TCP Sockets` `Network Protocols (ARP / mDNS)` `OpenWrt`
-
-#### [VieShop Management Engine](https://github.com/NguyenHoangPhuong275/Family-Management)
-> Centralized account and resource administration tool.
-- Asynchronous job queue with automatic retries, exponential backoff, and watchdog monitoring.
-- Role-based access control (RBAC), session revocation via token versioning, and internal TOTP verification.
-- `Next.js 15` `Prisma` `MongoDB` `SonarQube` `Tailwind CSS`
-
----
-
-### Technical Stack
-
-```
-Core Languages       TypeScript • JavaScript • Python • Java • Go • C#
-Frontend             React • Next.js (App Router) • Vite • Tailwind CSS
-Backend & APIs       Node.js • Express • FastAPI • Next.js API Routes • TCP Sockets
-Storage & Cache      MongoDB • PostgreSQL • Redis (Cache, Sessions, Rate limits)
-DevOps & Tooling     Docker • Docker Compose • Vitest • Playwright • SonarQube • Git
-```
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangPhuong275&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangPhuong275&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
+</div>
