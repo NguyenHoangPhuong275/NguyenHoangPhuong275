@@ -31,34 +31,6 @@ Kỹ sư phần mềm tập trung phát triển ứng dụng **Full-stack quy m�
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. [AutoFlow Studio](https://github.com/NguyenHoangPhuong275/autoflow)
-*AI Workspace điều khiển dữ liệu bảng tính và Google Workspace bằng ngôn ngữ tự nhiên.*
-- **Kiến trúc**: Sử dụng DeepSeek LLM kết hợp cơ chế tool-calling với danh mục hơn 40 công cụ nghiệp vụ cho Google Sheets, Drive, Docs và Gmail qua OAuth 2.0.
-- **Tính năng**: Phân tích dữ liệu `.xlsx`, `.xls`, `.csv`, tự động hóa quy trình xử lý theo từng dòng.
-- **Tech stack**: React 18, TypeScript, Vite, Tailwind CSS, Playwright, Vitest.
-
-### 2. [Smart Travel Guide](https://github.com/NguyenHoangPhuong275/dattcnpm)
-*Nền tảng hỗ trợ du lịch, đặt phòng và lập kế hoạch hành trình cộng tác.*
-- **Kiến trúc**: Clean architecture trên Next.js App Router, quản lý phiên và đệm dữ liệu với Redis, đóng gói toàn bộ dịch vụ qua Docker Compose.
-- **Tính năng**: Tìm kiếm chuyến bay nội địa, đặt phòng khách sạn, quản lý ngân sách chuyến đi và checklist cộng tác theo thời gian thực.
-- **Tech stack**: Next.js, React 19, TypeScript, MongoDB, Redis, Docker, Playwright, Vitest.
-
-### 3. [VieShop Web - Central Management Dashboard](https://github.com/NguyenHoangPhuong275/Family-Management)
-*Bảng điều khiển quản lý tài nguyên số tập trung với phân quyền đa cấp.*
-- **Kiến trúc**: Next.js 15 App Router, Prisma 6 ORM, hàng đợi đồng bộ bất đồng bộ có cơ chế watchdog và tự phục hồi khi có lỗi.
-- **Tính năng**: Phân quyền RBAC, xác thực JWT HttpOnly cookie, tích hợp bảo mật hai yếu tố (TOTP) và kiểm soát chất lượng qua SonarQube.
-- **Tech stack**: Next.js 15, Prisma ORM, MongoDB, SonarQube, Tailwind CSS.
-
-### 4. [Client-Side TOTP Authenticator](https://github.com/NguyenHoangPhuong275/2fasite)
-*Ứng dụng xác thực 2FA thời gian thực chạy hoàn toàn phía client (Zero-Knowledge).*
-- **Kiến trúc**: Xử lý tính toán mã TOTP trực tiếp trên trình duyệt, không lưu trữ secret trên server.
-- **Tính năng**: Đồng bộ lệch giờ (clock drift compensation) qua server time fallback, hỗ trợ định dạng Base32 và chuẩn `otpauth://`.
-- **Tech stack**: JavaScript (ESM), Vite, Vercel Serverless.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
